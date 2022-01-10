@@ -1,0 +1,5 @@
+    PID    PPID STATE UTIME STIME THREADS CMD                       STAT_FILE           
+   1368       2     Z     0     0       1 (kworker/37:2)            test_data/onyx_proc/1368/stat
+   2159       2     Z     0     0       1 (nfsd)                    test_data/onyx_proc/2159/stat
+   2224       2     Z     0     0       1 (nfsd)                    test_data/onyx_proc/2224/stat
+  19068       2     Z     0     0       1 (kworker/32:0)            test_data/onyx_proc/19068/stat
